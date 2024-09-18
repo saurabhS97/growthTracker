@@ -3,7 +3,7 @@ import './App.css';
 function TitleCard() {
     <div>
         <p>
-            Hello1
+            H
         </p>
     </div>
 }
