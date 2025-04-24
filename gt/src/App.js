@@ -1,14 +1,12 @@
 // import logo from './logo.svg';
 import './App.css';
-import TitleCard from './TitleCard';
 import './output.css';
-
+import Todo from './Todo'
 function App() {
   return (
     <div className="App">
       <link href="./output.css" rel="stylesheet" />
-      <TitleCard />
-
+      <Todo />
     </div>
   );
 }
